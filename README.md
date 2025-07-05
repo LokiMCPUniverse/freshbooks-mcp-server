@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-freshbooks-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-freshbooks-mcp-server)
+
 # FreshBooks MCP Server
 
 <div align="center">
